@@ -4,7 +4,7 @@ A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and
 
 ## 🚀 Live Demo
 
-[Click here to play the game!](https://oweii11.github.io/rock-paper-scissors/)
+[Click here to play the game!](https://oweii11.github.io/rock-paper-and-scissors/)
 ## 🛠️ Built With
 
 - 💻 HTML5
