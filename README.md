@@ -5,8 +5,6 @@ A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and
 ## 🚀 Live Demo
 
 [Click here to play the game!](https://oweii11.github.io/rock-paper-scissors/)
-*(Replace with your actual GitHub Pages link if deployed)*
-
 ## 🛠️ Built With
 
 - 💻 HTML5
@@ -21,10 +19,6 @@ A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and
 - Clean and responsive UI
 - Instant result display
 
-## 📸 Screenshots
-
-![screenshot]("C:\Users\user\Pictures\Screenshots\Screenshot 2025-04-21 171114.png")
-
 ## 🧠 How It Works
 
 1. Player selects **Rock**, **Paper**, or **Scissors**.
@@ -34,6 +28,4 @@ A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and
    - Scissors beats Paper
    - Paper beats Rock
 4. Score is updated accordingly.
-
-## 📁 Project Structure
 
