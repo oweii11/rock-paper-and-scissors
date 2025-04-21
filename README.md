@@ -23,8 +23,7 @@ A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and
 
 ## 📸 Screenshots
 
-![screenshot](./screenshot.png)  
-*(Optional: Add a screenshot of your game UI and include the image in your repo)*
+![screenshot]("C:\Users\user\Pictures\Screenshots\Screenshot 2025-04-21 171114.png")
 
 ## 🧠 How It Works
 
